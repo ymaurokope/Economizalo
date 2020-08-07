@@ -1,0 +1,49 @@
+﻿"provincia_id","provincia_desc","sexo","beneficiarios_cantidad"
+"02","Ciudad Autonoma de Buenos Aires","beneficiarios_hombres",1932004
+"06","Buenos Aires","beneficiarios_hombres",115509
+"10","Catamarca","beneficiarios_hombres",122501
+"14","Cordoba","beneficiarios_hombres",596671
+"18","Corrientes","beneficiarios_hombres",277134
+"22","Chaco","beneficiarios_hombres",361547
+"26","Chubut","beneficiarios_hombres",94317
+"30","Entre Rios","beneficiarios_hombres",279364
+"34","Formosa","beneficiarios_hombres",190674
+"38","Jujuy","beneficiarios_hombres",173799
+"42","La Pampa","beneficiarios_hombres",73298
+"46","La Rioja","beneficiarios_hombres",108132
+"50","Mendoza","beneficiarios_hombres",342321
+"54","Misiones","beneficiarios_hombres",308219
+"58","Neuquen","beneficiarios_hombres",52922
+"62","Rio Negro","beneficiarios_hombres",102925
+"66","Salta","beneficiarios_hombres",306179
+"70","San Juan","beneficiarios_hombres",138577
+"74","San Luis","beneficiarios_hombres",114102
+"78","Santa Cruz","beneficiarios_hombres",24172
+"82","Santa Fe","beneficiarios_hombres",428558
+"86","Santiago del Estero","beneficiarios_hombres",263186
+"90","Tucuman","beneficiarios_hombres",436919
+"94","Tierra del Fuego, Antartida e Islas del Atl<e1>ntico Sur","beneficiarios_hombres",21813
+"02","Ciudad Autonoma de Buenos Aires","beneficiarios_mujeres",2869615
+"06","Buenos Aires","beneficiarios_mujeres",186189
+"10","Catamarca","beneficiarios_mujeres",165288
+"14","Cordoba","beneficiarios_mujeres",842165
+"18","Corrientes","beneficiarios_mujeres",393879
+"22","Chaco","beneficiarios_mujeres",500112
+"26","Chubut","beneficiarios_mujeres",134095
+"30","Entre Rios","beneficiarios_mujeres",398919
+"34","Formosa","beneficiarios_mujeres",263130
+"38","Jujuy","beneficiarios_mujeres",244806
+"42","La Pampa","beneficiarios_mujeres",98475
+"46","La Rioja","beneficiarios_mujeres",149681
+"50","Mendoza","beneficiarios_mujeres",493929
+"54","Misiones","beneficiarios_mujeres",428504
+"58","Neuquen","beneficiarios_mujeres",84833
+"62","Rio Negro","beneficiarios_mujeres",146758
+"66","Salta","beneficiarios_mujeres",425265
+"70","San Juan","beneficiarios_mujeres",201708
+"74","San Luis","beneficiarios_mujeres",154376
+"78","Santa Cruz","beneficiarios_mujeres",35117
+"82","Santa Fe","beneficiarios_mujeres",644740
+"86","Santiago del Estero","beneficiarios_mujeres",369174
+"90","Tucuman","beneficiarios_mujeres",614887
+"94","Tierra del Fuego, Antartida e Islas del Atl<e1>ntico Sur","beneficiarios_mujeres",28431
